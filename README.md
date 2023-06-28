@@ -41,4 +41,5 @@ effective:
 
 ### Do you think I’ll make it?
 
-To start off on the right foot, here is my first tip: [balancing a text with CSS](https://developer.chrome.com/blog/css-text-wrap-balance/) aka `text-wrap: balance`
+- 27/06/2023: balancing a text with CSS using [text-wrap: balance](https://developer.chrome.com/blog/css-text-wrap-balance/)
+- 28/06/2023: Deep copy of an object with [structuredClone()](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
