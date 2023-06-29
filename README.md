@@ -43,3 +43,4 @@ effective:
 
 - 27/06/2023: balancing a text with CSS using [text-wrap: balance](https://developer.chrome.com/blog/css-text-wrap-balance/)
 - 28/06/2023: Deep copy of an object with [structuredClone()](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
+- 29/06/2023: Override user agent's style with [appearance: none](https://developer.mozilla.org/en-US/docs/Web/CSS/appearance)
