@@ -45,3 +45,7 @@ effective:
 - 28/06/2023: Deep copy of an object with [structuredClone()](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
 - 29/06/2023: Override user agent's style with [appearance: none](https://developer.mozilla.org/en-US/docs/Web/CSS/appearance)
 - 30/06/2023: Add padding characters if necessary to a string: [padStart()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart)
+- 01/07/2023: Create an image from a code snippet with [Carbon](https://carbon.now.sh) app
+- 02/07/2023: Open source browser tools for everyday use: [Omatsuri](https://omatsuri.app)
+- 03/07/2023: Step by step guide to becoming a modern frontend developer in 2023: [Roadmap.sh](https://roadmap.sh/frontend)
+
