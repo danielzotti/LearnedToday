@@ -48,4 +48,5 @@ effective:
 - 01/07/2023: Create an image from a code snippet with [Carbon](https://carbon.now.sh) app
 - 02/07/2023: Open source browser tools for everyday use: [Omatsuri](https://omatsuri.app)
 - 03/07/2023: Step by step guide to becoming a modern frontend developer in 2023: [Roadmap.sh](https://roadmap.sh/frontend)
+- 04/07/2023: [How to make your browser talk in ONE line of code](https://www.danielzotti.it/blog/how-to-make-your-browser-talk)
 
