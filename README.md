@@ -49,4 +49,4 @@ effective:
 - 02/07/2023: Open source browser tools for everyday use: [Omatsuri](https://omatsuri.app)
 - 03/07/2023: Step by step guide to becoming a modern frontend developer in 2023: [Roadmap.sh](https://roadmap.sh/frontend)
 - 04/07/2023: [How to make your browser talk in ONE line of code](https://www.danielzotti.it/blog/how-to-make-your-browser-talk)
-
+- 05/07/2023: Conditionally add properties to an object. [Article](https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal) by Andrea Simone Costa
