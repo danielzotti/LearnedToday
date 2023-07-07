@@ -50,3 +50,5 @@ effective:
 - 03/07/2023: Step by step guide to becoming a modern frontend developer in 2023: [Roadmap.sh](https://roadmap.sh/frontend)
 - 04/07/2023: [How to make your browser talk in ONE line of code](https://www.danielzotti.it/blog/how-to-make-your-browser-talk)
 - 05/07/2023: Conditionally add properties to an object. [Article](https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal) by Andrea Simone Costa
+- 06/07/2023: A list of funny and tricky JavaScript examples by [Denys Dovhan](https://github.com/denysdovhan/wtfjs)
+- 07/07/2023: A collection of ready-made [templates](https://github.com/github/gitignore) that simplify the creation of the .gitignore file. See also [gitignore.io](https://gitignore.io)
