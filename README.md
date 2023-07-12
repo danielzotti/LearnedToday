@@ -54,5 +54,7 @@ effective:
 - 07/07/2023: A collection of ready-made [templates](https://github.com/github/gitignore) that simplify the creation of the .gitignore file. See also [gitignore.io](https://gitignore.io)
 - 08/07/2023: [Helix](https://helix-editor.com)! A post-modern text #editor written in Rust
 - 09/07/2023: A book by Kyle Simpson that is a must read for those new to javascript: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- 10/07/2023: API mocking of the next generation: https://mswjs.io
+- 10/07/2023: API mocking of the next generation: [MSJS](https://mswjs.io)
+- 11/07/2023: I wrote an article about [Functional Array.splice()](https://www.danielzotti.it/blog/functional-array-splice) on my blog
+- 12/07/2023: [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) is a collection of step-by-step guides for re-creating technologies from scratch
 
