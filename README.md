@@ -57,4 +57,6 @@ effective:
 - 10/07/2023: API mocking of the next generation: [MSJS](https://mswjs.io)
 - 11/07/2023: I wrote an article about [Functional Array.splice()](https://www.danielzotti.it/blog/functional-array-splice) on my blog
 - 12/07/2023: [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) is a collection of step-by-step guides for re-creating technologies from scratch
-
+- 13/07/2023: Operations between sets in JavaScript: https://dev.to/danielzotti/learnedtoday-set-operations-with-arrays
+- 14/07/2023: Check browser support of CSS, JS and HTML features with [Can I Use](https://caniuse.com)
+- 15/07/2023: [LottieFiles](https://lottiefiles.com) is a website which collects free, ready-to-use and customizable animations for your projects.
