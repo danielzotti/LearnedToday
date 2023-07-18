@@ -62,3 +62,4 @@ effective:
 - 15/07/2023: [LottieFiles](https://lottiefiles.com) is a website which collects free, ready-to-use and customizable animations for your projects.
 - 16/07/2023: [GitBook](https://app.gitbook.com): the ultimate platform for creating, collaborating, and publishing interactive documentation
 - 17/07/2023: [Compound emoji](https://stackblitz.com/edit/compound-emoji?file=index.js)
+- 18/07/2023: Regex and [Named Capturing Group](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Named_capturing_group)
