@@ -59,7 +59,8 @@ effective:
 - 12/07/2023: [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) is a collection of step-by-step guides for re-creating technologies from scratch
 - 13/07/2023: Operations between sets in JavaScript: https://dev.to/danielzotti/learnedtoday-set-operations-with-arrays
 - 14/07/2023: Check browser support of CSS, JS and HTML features with [Can I Use](https://caniuse.com)
-- 15/07/2023: [LottieFiles](https://lottiefiles.com) is a website which collects free, ready-to-use and customizable animations for your projects.
+- 15/07/2023: [LottieFiles](https://lottiefiles.com) is a website which collects free, ready-to-use and customizable animations for your projects
 - 16/07/2023: [GitBook](https://app.gitbook.com): the ultimate platform for creating, collaborating, and publishing interactive documentation
 - 17/07/2023: [Compound emoji](https://stackblitz.com/edit/compound-emoji?file=index.js)
 - 18/07/2023: Regex and [Named Capturing Group](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Named_capturing_group)
+- 19/07/2023: [ng-input-number-i18n](https://github.com/danielzotti/ng-input-number-i18n) to display and edit decimal numbers for different locales.
