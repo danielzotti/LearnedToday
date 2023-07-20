@@ -64,3 +64,4 @@ effective:
 - 17/07/2023: [Compound emoji](https://stackblitz.com/edit/compound-emoji?file=index.js)
 - 18/07/2023: Regex and [Named Capturing Group](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Named_capturing_group)
 - 19/07/2023: [ng-input-number-i18n](https://github.com/danielzotti/ng-input-number-i18n) to display and edit decimal numbers for different locales.
+- 20/07/2023: [Web Accessibility in 20 points](https://dev.to/this-is-learning/top-20-must-know-tips-for-web-accessibility-452) by [Ismael Ramos](https://www.ismaelramos.dev)
