@@ -66,3 +66,10 @@ effective:
 - 19/07/2023: [ng-input-number-i18n](https://github.com/danielzotti/ng-input-number-i18n) to display and edit decimal numbers for different locales.
 - 20/07/2023: [Web Accessibility in 20 points](https://dev.to/this-is-learning/top-20-must-know-tips-for-web-accessibility-452) by [Ismael Ramos](https://www.ismaelramos.dev)
 - 21/07/2023: Kevin Mitnick has died. Let's talk about his [first hack](https://www.youtube.com/watch?v=YmGwdoS706M)
+- 22/07/2023: [React95](https://github.com/React95/React95): a Windows95 style UI component library that you can use in your React projects
+- 23/07/2023: [Regexper](https://regexper.com) creates a diagram for your regex
+- 24/07/2023: Reduce Spread anti-pattern [article](https://www.richsnapp.com/article/2019/06-09-reduce-spread-anti-pattern)
+- 25/07/2023: [DreamBeard](https://github.com/TodePond/DreamBerd): an innovative programming language
+- 26/07/2023: [Qwik](https://qwik.builder.io/) framework
+- 27/07/2023: [WeAreDevelopers Conference](https://www.wearedevelopers.com/world-congress)
+- 28/07/2023: [One month of #LearnedToday](https://dev.to/danielzotti/learnedtoday-one-month-of-learnedtoday-4enl)
