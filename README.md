@@ -73,3 +73,6 @@ effective:
 - 26/07/2023: [Qwik](https://qwik.builder.io/) framework
 - 27/07/2023: [WeAreDevelopers Conference](https://www.wearedevelopers.com/world-congress)
 - 28/07/2023: [One month of #LearnedToday](https://dev.to/danielzotti/learnedtoday-one-month-of-learnedtoday-4enl)
+- 04/08/2023: [range()](https://dev.to/danielzotti/range-in-javascript-5aff) function in JavaScript
+- 10/08/2023: [Daniel's ambigram](https://dev.to/danielzotti/learnedtoday-ambigrams-40n0)
+- 18/08/2023: [Pushable 3D button](https://dev.to/danielzotti/learnedtoday-pushable-3d-button-203m) in SCSS
