@@ -76,3 +76,4 @@ effective:
 - 04/08/2023: [range()](https://dev.to/danielzotti/range-in-javascript-5aff) function in JavaScript
 - 10/08/2023: [Daniel's ambigram](https://dev.to/danielzotti/learnedtoday-ambigrams-40n0)
 - 18/08/2023: [Pushable 3D button](https://dev.to/danielzotti/learnedtoday-pushable-3d-button-203m) in SCSS
+- 21/08/2023: [EyeDropper API](https://dev.to/danielzotti/learnedtoday-eyedropper-browser-api-5h06)
