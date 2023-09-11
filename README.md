@@ -77,3 +77,5 @@ effective:
 - 10/08/2023: [Daniel's ambigram](https://dev.to/danielzotti/learnedtoday-ambigrams-40n0)
 - 18/08/2023: [Pushable 3D button](https://dev.to/danielzotti/learnedtoday-pushable-3d-button-203m) in SCSS
 - 21/08/2023: [EyeDropper API](https://dev.to/danielzotti/learnedtoday-eyedropper-browser-api-5h06)
+- 28/08/2023: [FileSystemAccess API](https://dev.to/danielzotti/learnedtoday-filesystemaccess-api-2361)
+- 08/09/2023: [Drag&Drop in JS](https://dev.to/danielzotti/learnedtoday-dragdrop-api-1hkm)
